@@ -2,10 +2,10 @@
 title: Zenfone 7
 description: 
 published: true
-date: 2021-04-29T08:16:32.784Z
-tags: zs670ks, zs671ks, fota
+date: 2024-09-16T06:21:21.117Z
+tags: fota, zs670ks, zs671ks
 editor: markdown
-dateCreated: 2021-04-29T08:05:42.680Z
+dateCreated: 2024-04-19T12:03:16.283Z
 ---
 
 # Zenfone 7
